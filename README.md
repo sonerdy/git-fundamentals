@@ -1,2 +1,2 @@
-# git-fundamentals
-A test repository for learning Github
+# Git Fundamentals
+There are open issues on this project, go check them out and help complete them.
